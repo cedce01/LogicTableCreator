@@ -1,7 +1,7 @@
 # LogikTableCreator
 Generates all possible combinations of the inputs and puts them in a .xslx
 LogicTable creator uses "https://github.com/closedxml/closedxml#" and is therefor limited by there licences and those that concur from using it.
-Download the exe here https://drive.google.com/file/d/1sgID1NsT6BZJ9SF-8eqvc-xTnelq_9DL/view?usp=sharing
+Download the exe here https://drive.google.com/file/d/1sgID1NsT6BZJ9SF-8eqvc-xTnelq_9DL/view?usp=sharing (Net 5.0 required)
 
 License stuff
 Permission is hereby granted, free of charge, to any person obtaining a copy
